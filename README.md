@@ -49,7 +49,7 @@ VMware Workstation Pro with 16 GB RAM on a Windows 11 host.
 - OpenCTI — Threat intelligence correlation (Docker)
 - DVWA — Vulnerable web application target (Docker)
 - Kali Linux — Attacker machine in isolated subnet
-- Splunk Cloud — Log analysis exploration (19-day trial)
+- Splunk Cloud — Log analysis exploration 
 
 **Key Skills:** Network segmentation | Agent enrollment | 
 IDS configuration | Threat intel integration | Log analysis
